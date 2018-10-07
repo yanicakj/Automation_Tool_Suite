@@ -1,5 +1,5 @@
 Attribute VB_Name = "Module8"
-Option Explicit
+Option Explicit 
 
 Sub Clear_Button6_Click()
 
