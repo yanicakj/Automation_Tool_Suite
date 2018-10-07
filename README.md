@@ -2,7 +2,7 @@
 
 ### Project Note: removed all sensitive information from code before upload i.e. query, database, and intranet information
 
-#### Included some screenshots below of the tools.
+#### Included some screenshots below of a few of the tools.
 
 ## Front End Scrubber Interface
 Bulk project information gathered through IE browser automation
