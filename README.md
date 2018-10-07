@@ -4,16 +4,26 @@
 
 #### Included some screenshots below of the tools.
 
-## Tool Interface
+## Front End Scrubber Interface
+Bulk project information gathered through IE browser automation
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/20134674/46576878-eabe6a80-c9a3-11e8-85d3-4af036310c69.PNG" width="900"/>
-</p>
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/20134674/46576879-eb570100-c9a3-11e8-909b-104be8f81a17.PNG" width="900"/> 
+  <img src="https://user-images.githubusercontent.com/20134674/46576948-628d9480-c9a6-11e8-9b3f-7fa9f5aad7f8.PNG" width="900"/>
 </p>
 
-## In action
-
+## Bulk Project Validation Tool Interface
+Run projects against a spreadsheet
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/20134674/46576895-5e607780-c9a4-11e8-9358-886f33290632.PNG" width="900"/> 
+  <img src="https://user-images.githubusercontent.com/20134674/46576949-628d9480-c9a6-11e8-8e2e-ce1faf5ce5d0.PNG" width="900"/> 
+</p>
+
+## Inter-sheet Data Validation Interface
+Comparison and correction of two sheets in single workbook: forecasts and actuals
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/20134674/46576950-628d9480-c9a6-11e8-8459-e69aa2ad9499.PNG" width="900"/> 
+</p>
+
+## Multiple Workbook Data Validation Interface
+Comparison and correction of two workbooks containing forecast information
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/20134674/46576951-63262b00-c9a6-11e8-9961-dd4158dc6cab.PNG" width="900"/> 
 </p>
