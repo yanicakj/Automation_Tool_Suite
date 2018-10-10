@@ -4,7 +4,7 @@
 
 #### Included some screenshots below of a few of the tools.
 
-## Front End Scrubber Interface
+## Frontend Scrubber Interface
 Bulk project information gathered through IE browser automation
 <p float="left">
   <img src="https://user-images.githubusercontent.com/20134674/46576948-628d9480-c9a6-11e8-9b3f-7fa9f5aad7f8.PNG" width="900"/>
